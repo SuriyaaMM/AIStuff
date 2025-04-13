@@ -7,5 +7,3 @@
 - Generative/vae_hyperparameter_tuning.py Contains the previous implementation of VAE which contains hyperparameter tuning.
 
 - LinearRegression.ipynb contains Linear Regression from Scratch written and visualized using Matplotlib.
-
-- generative/Transformer.py contains Attention, MultiHead Attention implementation from scratch using [jax](https://github.com/jax-ml/jax)

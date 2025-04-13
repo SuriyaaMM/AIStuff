@@ -1,4 +1,4 @@
-name: dl
+name: deeplearning
 channels:
   - conda-forge
   - defaults
@@ -172,4 +172,3 @@ dependencies:
       - wrapt==1.17.2
       - xxhash==3.5.0
       - yarl==1.19.0
-prefix: /home/mms/miniconda3/envs/dl
